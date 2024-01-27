@@ -23,7 +23,7 @@ const DeskFirst = () => {
         ))}
       </div>
 
-      <div className="w-full min-h-screen flex justify-center items-center bg-zinc-800 gap-[100px] lg:flex-col">
+      {/* <div className="w-full min-h-screen flex justify-center items-center bg-zinc-800 gap-[100px] lg:flex-col">
         <div className="relative ">
           <motion.img
             src="https://images.pexels.com/photos/1921168/pexels-photo-1921168.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
@@ -77,7 +77,7 @@ const DeskFirst = () => {
             </h1>
           </motion.div>
         )}
-      </div>
+      </div> */}
     </>
   );
 };
