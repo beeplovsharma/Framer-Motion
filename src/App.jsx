@@ -14,7 +14,7 @@ function App() {
         <ExpandCard />
         <Basics />
         <Cycle />
-        <Drag />
+        {/* <Drag /> */}
         <Sequence />
         <DeskFirst />
         {/* <MaskText/> */}
